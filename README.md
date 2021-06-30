@@ -1,6 +1,8 @@
 # Predict Customer Churn with Spark
 Machine Learning pipeline using PySpark to predict User Churn in a music streaming platform.
 
+**Main results can be found in this [Medium Post](https://mercedesterragno.medium.com/)**. [LINK TO POST]
+
 ### Table of Contents
 
 1. [Project Motivation](#motivation)
@@ -16,8 +18,6 @@ In this project, we will use Spark to analyze users' log data and build a Machin
 ## File Descriptions <a name="files"></a>
 
 - sparkify.ipynb: all the code, rationale, and details of the project step by step.
-- subset_event_data.json: small subset of data used for analysis.
-
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
