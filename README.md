@@ -17,7 +17,7 @@ In this project, we will use Spark to analyze users' log data and build a Machin
 
 ## File Descriptions <a name="files"></a>
 
-- sparkify.ipynb: all the code, rationale, and details of the project step by step.
+- User Churn analysis and modeling.ipynb: all the code, rationale, and details of the project step by step.
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
