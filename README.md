@@ -1,7 +1,7 @@
 # Predict Customer Churn with Spark
 Machine Learning pipeline using PySpark to predict User Churn in a music streaming platform.
 
-**Main results can be found in this [Medium Post](https://mercedesterragno.medium.com/why-customers-leave-73ad70b24b04)**. 
+**A walkthrough the project, methodology and visualizations can be found in this [Medium Post](https://mercedesterragno.medium.com/why-customers-leave-73ad70b24b04)**. 
 
 ### Table of Contents
 
